@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     int a;
-    cout<<"Enter a number";
+    cout<<"Enter a digit";
     cin>>a;
     if(a<=0 || a<=9)
     {
